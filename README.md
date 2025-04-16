@@ -42,3 +42,16 @@ This repository documents my daily progress as I build mini-projects to master P
 - User input and menu navigation
 - Looping with attempt limits
 - Better exception handling and game logic
+
+  🧩 Day 3: Functions & Clean Code
+Refactored the number guessing game by organizing code into reusable functions:
+
+choose_difficulty() handles level selection
+
+get_user_guess() manages user input and validation
+
+play_game() runs the main game logic
+
+Also introduced constants for difficulty levels to avoid magic numbers and improve clarity.
+
+📍Lesson: Clean code, function structure, input validation, game logic.
