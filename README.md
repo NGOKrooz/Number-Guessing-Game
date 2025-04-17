@@ -55,3 +55,27 @@ play_game() runs the main game logic
 Also introduced constants for difficulty levels to avoid magic numbers and improve clarity.
 
 📍Lesson: Clean code, function structure, input validation, game logic.
+
+
+✅ Day 4: Scoreboard with File Handling
+What I Did:
+
+🎯 Added a scoreboard to my number guessing game!
+
+Display previous scores at the start using display_scoreboard().
+
+Save the player's name, result (Won/Lost), and number of attempts used with save_score().
+
+Used Python's os.path.exists() to check if the score file exists.
+
+Used with open() for safe reading and writing to scoreboard.txt.
+
+📚 What I Learned:
+
+File I/O (reading/writing to files).
+
+Appending and formatting strings for logs.
+
+How to persist data across game sessions.
+
+Importance of clean functions and modular code.
