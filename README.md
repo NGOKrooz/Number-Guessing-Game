@@ -79,3 +79,25 @@ Appending and formatting strings for logs.
 How to persist data across game sessions.
 
 Importance of clean functions and modular code.
+
+
+## Day 5 - #100DaysOfPython
+
+Today, I took a deliberate step back to **review and deeply understand the Day 4 code**, which introduced a number guessing game with features like difficulty levels, scoreboard persistence, and user input validation.
+
+### What I Focused On:
+- Carefully walked through each line of code.
+- Studied the use of Python modules like `random` and `os`.
+- Understood key concepts such as:
+  - Functions and how they modularize code.
+  - File handling (`open`, `readlines`, `write`).
+  - Conditional logic for game flow.
+  - Input validation using `try/except`.
+  - Use of constants to manage game settings.
+
+### Reflection:
+Instead of rushing into the upgrade task, I prioritized clarity over speed. This review not only helped solidify the fundamentals but also gave me confidence to build more complex features in upcoming days.
+
+**Next Up:** Enhancing the game with new functionalities!
+
+Stay tuned for Day 6!
