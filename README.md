@@ -101,3 +101,27 @@ Instead of rushing into the upgrade task, I prioritized clarity over speed. This
 **Next Up:** Enhancing the game with new functionalities!
 
 Stay tuned for Day 6!
+
+
+# 🚀 Day 6 – Final Polish for the Number Guessing Game 🎯
+
+Today, I focused on improving the **User Experience** of my terminal-based Python game. The goal was to make the interaction feel smoother and more engaging for the player.
+
+### ✅ What I Added:
+- **👋 Welcome Message** at the start of the game to greet the player.
+- **🧼 Cleaner Prompts** using emojis and clear formatting for inputs.
+- **📜 Guess History Tracker** – After each guess, players now see a list of all previous guesses.
+
+### 🧠 What I Learned:
+- How to structure user-friendly prompts in CLI games.
+- How to use lists to keep track of guess history.
+- The value of small UX improvements in creating delightful software.
+
+### 🛠️ Next Steps:
+In the upcoming days, I’ll look into adding more feedback (like colors using `colorama`) and possibly wrapping the game in a simple GUI.
+
+---
+
+👣 Follow along my journey: #100DaysOfCode  
+📂 This project is part of my beginner Python series.
+
